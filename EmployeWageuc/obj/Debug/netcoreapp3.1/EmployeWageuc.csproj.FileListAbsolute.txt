@@ -1,0 +1,14 @@
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.exe
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.deps.json
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.runtimeconfig.json
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.runtimeconfig.dev.json
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.dll
+D:\Emplayeewagecp\EmployeWageuc\bin\Debug\netcoreapp3.1\EmployeWageuc.pdb
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.csproj.AssemblyReference.cache
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.AssemblyInfoInputs.cache
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.AssemblyInfo.cs
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.csproj.CoreCompileInputs.cache
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.dll
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.pdb
+D:\Emplayeewagecp\EmployeWageuc\obj\Debug\netcoreapp3.1\EmployeWageuc.genruntimeconfig.cache
